@@ -1,0 +1,9 @@
+ID - SMALLINT - Primary Key, Unique, Auto_increment, Not_null
+manufacturer - VARCHAR(255), Not_null
+model - VARCHAR(255), Not_null
+engine_type - VARCHAR(255), Not_null
+engine_size - SMALLINT, Not_null
+horsepower - SMALLINT, Not_null
+description - TEXT
+release_date - release_date, Not_null
+price - FLOAT(10,2), Not_null
